@@ -154,7 +154,7 @@ h2{
 /*Skill set*/
 div.skillset-container{
    width: 100%;
-   height: 80vh; 
+   height: auto; 
    margin: 0 auto;
    padding: 3em;
    text-align: center;
