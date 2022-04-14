@@ -33,12 +33,13 @@ header{
 nav{
     text-align: right;
     margin-top: 130px;
+    margin-left: 120px;
 }
 
 nav li{
     display: inline;
     margin-right: 3rem;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 nav a{
